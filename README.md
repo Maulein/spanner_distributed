@@ -4,7 +4,7 @@
 Copyright (c) 2024 Maulein
 This code is part of our work titled “Scalable algorithms for compact spanners on real-world graphs"
 
-This work is built using the Parallel Boost Grpah Library (PBGL)
+This work is built using the Parallel Boost Graph Library (PBGL)
 
 //=======================================================================
 // Copyright 1997, 1998, 1999, 2000 University of Notre Dame.
@@ -19,7 +19,7 @@ This work is built using the Parallel Boost Grpah Library (PBGL)
 
 The repository contains code files for our work titled “Scalable algorithms for compact low-stretch spanners on real-world graphs". The implementations are built using the PBGL. 
 
-Our work includes implementations of distriubted graph algorithm for producing graph spanners under the variants: Baseline, Hybrid Spanner and Sampling Based Algorithms using the adjacency list format and CSR format. The code files (spanner.cpp, bfs1hop.hpp, visitors.hpp) for these variants are located under the appropriate directories. 
+Our work includes implementations of distributed graph algorithms for producing graph spanners under the variants: Baseline, Hybrid Spanner and Sampling Based Algorithms using the adjacency list format and CSR format. The code files (spanner.cpp, bfs1hop.hpp, visitors.hpp) for these variants are located under the appropriate directories. 
 
 **Compilation and Running Code** 
 
