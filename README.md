@@ -2,7 +2,7 @@
 **Generating compact k-spanners in distributed setup**
 
 Copyright (c) 2024 Maulein
-This code is part of our work titled “Scalable algorithms for compact spanners on real-world graphs"
+This code is part of our work titled “Practical parallel algorithms for compact spanners on real world graphs"
 
 This work is built using the Parallel Boost Graph Library (PBGL)
 
